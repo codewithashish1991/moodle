@@ -1,0 +1,16 @@
+s:657:"<p>You can disable the sitewide search box and enable social icons / links in its place.<br />To setup icons enter a delimited list into the "Social Icon List" field below.<br />This should be in the format:</p>
+
+<p>url|title|icon</p>
+
+<p>For example:</p>
+
+<pre>
+https://example.com/course/search.php|Search Moodle|fa-search
+https://facebook.com/|Facebook|fa-facebook-square
+https://twitter.com/|Twitter|fa-twitter-square
+https://instagram.com|Instagram|fa-instagram
+https://example.com|My Web|fa-globe
+</pre>
+
+<p>For reference you can find the full list of Font Awesome Icons see '<a href="https://fortawesome.github.io/Font-Awesome/icons/">here</a>'.</p>
+";

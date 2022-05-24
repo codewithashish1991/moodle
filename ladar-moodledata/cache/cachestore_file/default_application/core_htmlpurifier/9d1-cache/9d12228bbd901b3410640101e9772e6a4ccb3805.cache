@@ -1,0 +1,11 @@
+s:557:"<p>Tools menus (in navbar) and top menus (upper header) can be restricted based on custom profile fields (optional).  To add a restriction enter the name of the profile field and expected value.  Menu Structure follows the common Moodle format:<br /></p>
+
+<pre>
+Moodle community|https://moodle.org
+-Moodle free support|https://moodle.org/support
+-Moodle development|https://moodle.org/development
+--Moodle Docs|http://docs.moodle.org|Moodle Docs
+--German Moodle Docs|http://docs.moodle.org/de|Documentation in German|de
+Moodle.com|http://moodle.com/
+</pre>
+";
